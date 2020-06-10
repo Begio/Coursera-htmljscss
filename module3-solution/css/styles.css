@@ -1,0 +1,29 @@
+	* {
+		box-sizing: border-box;
+	}
+	h1 {
+		margin-bottom: 40px;
+		text-align: center;
+		font-size: 275%;
+	}
+
+	p {
+		padding: 15px;
+		margin: 0;	
+	}
+	.con-div {
+		padding: 5px;
+		background-color: PapayaWhip;
+	}
+	
+	.col-md-4 {
+		padding: 1%;
+	}
+	  
+	.col-md-6, .col-md-12 {
+		padding: 1%;
+	}
+	  
+	.col-xs-12 {
+		padding: 1%;
+	}
